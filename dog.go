@@ -27,7 +27,7 @@ func main() {
                                        ooooooooooooooooooooooo
                                       mmm   mmm    mmm   mmm
 
-                                                                               Doggo (adv.) Remain motionless and quiet to escape detection.
+                                                                               doggo (adv.) Remain motionless and quiet to escape detection.
 
 `, 0x60, 0x22)
 	})
